@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KlaudiaJaros&theme=synthwave&show_icons=true)](https://github.com/KlaudiaJaros/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlaudiaJaros)](https://github.com/KlaudiaJaros/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlaudiaJaros&layout=compact&hide=makefile)](https://github.com/KlaudiaJaros/github-readme-stats)
